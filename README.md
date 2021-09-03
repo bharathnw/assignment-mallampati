@@ -1,1 +1,1 @@
-# assignment-mallampati
+# assignment2-mallampati
