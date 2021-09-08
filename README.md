@@ -16,3 +16,7 @@ Florida is affectionately known as **the sunshine state**. And for **good reason
         1. Water sports
         2. Sky diving
 4. Enjoy the trip!!!
+
+- Walt Disney World Resort
+- Magic Kingdom Park
+- Sanibel Island
