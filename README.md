@@ -36,3 +36,17 @@ Foods which contain high protein.
 |Chick Peas|Wallmart|$6.00|
 |Eggs|Any Store|$5.00|
 
+******
+
+# Pithy Quotes
+
+*Julius Caesar* said:
+
+> Friends, Romans, countrymen, lend me your ears: I come to bury Caesar, not to praise him.
+
+*Hamlet* said:
+
+> There are more things in heaven and earth, Horatio, than are dreamt of in your philosophy.
+
+
+
