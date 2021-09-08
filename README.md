@@ -25,9 +25,9 @@ Checkout more at my [About Me](AboutMe.md) page.
 
 ******
 
-#Tables
+# Tables
 
-let's have a look at foods which contain high protein.
+Foods which contain high protein.
 
 | Food | Location | Cost |
 |------|----------|------|
