@@ -20,3 +20,5 @@ Florida is affectionately known as **the sunshine state**. And for **good reason
 - Walt Disney World Resort
 - Magic Kingdom Park
 - Sanibel Island
+
+Checkout more at my [About Me](AboutMe.md) page.
